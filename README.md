@@ -1,0 +1,2 @@
+# fetch-users-app
+ # Fetch Users App  Bu proje, **JavaScript Fetch API** kullanarak bir **Web API'den** veri çekip ekrana yazdıran basit bir uygulamadır.   ## 🚀 Özellikler - API’den kullanıcı verilerini çeker 📡   - Kullanıcıları isim ve e-posta adresleriyle listeler 📋   - Hata yönetimi içerir ⚠️    ## 📌 Kullanılan Teknolojiler - JavaScript (Vanilla JS)   - HTML & CSS   - Fetch API    ## 📂 Kurulum & Çalıştırma 1. **Projeyi klonla**      ```sh    git clone https://github.com/KullaniciAdin/fetch-users-app.git    cd fetch-users-app
